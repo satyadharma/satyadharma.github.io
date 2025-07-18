@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Satyadharma Tirtarasa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Knowledge Engineer | Data Scientist | Software Developer with focus on Knowledge Representation"
+  bio    : "Knowledge Engineer \| Data Scientist \| Software Developer with focus on Knowledge Representation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
